@@ -1,56 +1,56 @@
 {
   "meta": {
     "title": "OurCandle4U — Handmade candles & car rental",
-    "description": "Enjoyed your GoMore rental? 🕯️ Want to keep the handmade candle? Make a contribution via TWINT toward our dream trip to Japan 🇯🇵"
+    "description": "Enjoyed your GoMore rental? Want to keep the handmade candle? Make a contribution via TWINT toward our dream trip to Japan."
   },
   "nav": {
-    "brand": "🕯️ OurCandle4U"
+    "brand": "OurCandle4U"
   },
   "hero": {
-    "badge": "🎁 A thank-you from your hosts",
-    "title": "Thanks for renting with us! 🚗✨",
-    "subtitle": "🕯️ We left you a handmade candle — a small thank-you from Gabriele & Angelika, your GoMore hosts 💛",
+    "badge": "A thank-you from your hosts",
+    "title": "Thanks for renting with us!",
+    "subtitle": "We left you a handmade candle — a small thank-you from Gabriele & Angelika, your GoMore hosts.",
     "altHosts": "Gabriele and Angelika, your GoMore hosts",
-    "ctaStory": "📖 Our story",
-    "ctaTwint": "💸 Contribute with TWINT"
+    "ctaStory": "Our story",
+    "ctaTwint": "Contribute with TWINT"
   },
   "story": {
-    "title": "🕯️ Why a candle?",
+    "title": "Why a candle?",
     "altTravel": "Gabriele and Angelika on a trip — dreaming of Japan",
-    "paragraph1": "🚗 We share our cars on GoMore and love keeping them spotless for every trip. As a thank-you, we leave a handmade candle in each car — yours to keep if you'd like it! 🕯️",
-    "paragraph2": "🇯🇵 We're saving up for a dream trip to Japan. If you want the candle, a TWINT contribution helps us get one step closer — you decide the amount! 🙌",
-    "paragraph3": "✨ If you want to keep the candle, please make a contribution via TWINT — you decide the amount. Every contribution goes straight toward our Japan adventure — thank you for supporting us! 🥰"
+    "paragraph1": "We share our cars on GoMore and love keeping them spotless for every trip. As a thank-you, we leave a handmade candle in each car — yours to keep if you'd like it!",
+    "paragraph2": "We're saving up for a dream trip to Japan. If you want the candle, a TWINT contribution helps us get one step closer — you decide the amount.",
+    "paragraph3": "If you want to keep the candle, please make a contribution via TWINT — you decide the amount. Every contribution goes straight toward our Japan adventure — thank you for supporting us!"
   },
   "candle": {
-    "title": "🕯️ Your handmade candle",
-    "description": "Each candle is made by hand with care 🤲 If you want to keep it, please make a contribution via TWINT — you decide the amount. More colors and scents are also available on request 🎨",
-    "colorsNote": "🎨 Ask us about other colors and special requests!",
+    "title": "Your handmade candle",
+    "description": "Each candle is made by hand with care. If you want to keep it, please make a contribution via TWINT — you decide the amount. More colors and scents are also available on request.",
+    "colorsNote": "Ask us about other colors and special requests!",
     "altCouple": "Gabriele and Angelika dreaming of Japan",
     "altCandle": "Handmade candle in warm colors"
   },
   "twint": {
-    "title": "🇯🇵 Contribute via TWINT",
-    "description": "🕯️ If you want to keep the candle, please make a contribution via TWINT — you decide the amount 💛",
-    "button": "💸 Contribute with TWINT",
-    "openApp": "📱 Open TWINT app",
-    "step1": "📱 Open your TWINT app",
-    "step2": "💸 Tap \"Send money\"",
-    "step3": "📞 Enter our phone number",
+    "title": "Contribute via TWINT",
+    "description": "If you want to keep the candle, please make a contribution via TWINT — you decide the amount.",
+    "button": "Contribute with TWINT",
+    "openApp": "Open TWINT app",
+    "step1": "Open your TWINT app",
+    "step2": "Tap \"Send money\"",
+    "step3": "Enter our phone number",
     "phoneLabel": "Our TWINT number",
-    "copy": "📋 Copy number",
-    "copied": "✅ Copied!",
+    "copy": "Copy number",
+    "copied": "Copied!",
     "close": "Close"
   },
   "contact": {
-    "title": "🕯️ Want more candles?",
-    "description": "Love your candle and want more colors or a custom order? 💌 Message us — we'd love to hear from you!",
-    "whatsapp": "💬 Message us on WhatsApp",
-    "whatsappHint": "Opens WhatsApp to send us a message 📲",
-    "gomore": "🚗 Message us on GoMore",
-    "gomoreHint": "Opens the GoMore app to your booking — message us in the chat 💬"
+    "title": "Want more candles?",
+    "description": "Love your candle and want more colors or a custom order? Message us — we'd love to hear from you!",
+    "whatsapp": "Message us on WhatsApp",
+    "whatsappHint": "Opens WhatsApp to send us a message",
+    "gomore": "Message us on GoMore",
+    "gomoreHint": "Opens the GoMore app to your booking — message us in the chat"
   },
   "footer": {
-    "tagline": "🕯️ Gabriele & Angelika · 🚗 GoMore · 🇯🇵 Japan dream",
-    "domain": "ourcandle4u.com ✨"
+    "tagline": "Gabriele & Angelika · Handmade candles · GoMore · Japan dream",
+    "domain": "ourcandle4u.com"
   }
 }
