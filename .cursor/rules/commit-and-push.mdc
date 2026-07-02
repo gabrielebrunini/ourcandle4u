@@ -1,0 +1,12 @@
+---
+description: Commit and push changes automatically after completing work
+alwaysApply: true
+---
+
+# Commit and push
+
+After completing requested code changes in this repo, commit and push to `origin/main` without asking for confirmation.
+
+- Write a clear commit message focused on why
+- Push immediately so Vercel deploys from GitHub
+- Only skip commit/push if the user explicitly says not to, or if there are no changes
