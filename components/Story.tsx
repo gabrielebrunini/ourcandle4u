@@ -1,5 +1,5 @@
 import { useTranslations } from "next-intl";
-import LivePhoto from "./LivePhoto";
+import Image from "next/image";
 
 export default function Story() {
   const t = useTranslations("story");
@@ -11,11 +11,13 @@ export default function Story() {
           {t("title")}
         </h2>
 
-        <div className="relative mx-auto mb-8 aspect-[3/4] max-w-xs overflow-hidden rounded-3xl border-4 border-mint/40 shadow-lg">
-          <LivePhoto
-            baseName="couple-travel"
+        <div className="relative mx-auto mb-8 aspect-[3/4] max-w-xs overflow-hidden rounded-3xl border-4 border-mint/40 bg-cream shadow-lg">
+          <Image
+            src="/images/couple-travel.png"
             alt={t("altTravel")}
-            className="absolute inset-0 h-full w-full object-cover"
+            fill
+            className="object-contain object-center"
+            sizes="(max-width: 768px) 80vw, 320px"
           />
         </div>
 
