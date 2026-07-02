@@ -8,6 +8,8 @@
   --mint-dark: #5fd9be;
   --yellow: #ffe066;
   --charcoal: #2d3436;
+  --gomore: #7ec8e3;
+  --gomore-dark: #5eb5d8;
 }
 
 @theme inline {
@@ -18,6 +20,8 @@
   --color-mint-dark: var(--mint-dark);
   --color-yellow: var(--yellow);
   --color-charcoal: var(--charcoal);
+  --color-gomore: var(--gomore);
+  --color-gomore-dark: var(--gomore-dark);
   --font-sans: var(--font-nunito), system-ui, sans-serif;
 }
 

@@ -25,13 +25,13 @@ export default function GoMoreLink() {
     <a
       href={GOMORE_UNIVERSAL_LINK}
       onClick={handleClick}
-      className="flex flex-1 flex-col items-center rounded-3xl bg-charcoal px-6 py-5 text-white shadow-md transition hover:scale-[1.02] hover:shadow-lg sm:max-w-xs"
+      className="flex flex-1 flex-col items-center rounded-3xl bg-gomore px-6 py-5 text-charcoal shadow-md transition hover:scale-[1.02] hover:bg-gomore-dark hover:shadow-lg sm:max-w-xs"
     >
       <span className="mb-1 text-2xl" aria-hidden="true">
         🚗
       </span>
       <span className="text-lg font-bold">{t("gomore")}</span>
-      <span className="mt-1 text-sm text-white/85">{t("gomoreHint")}</span>
+      <span className="mt-1 text-sm text-charcoal/75">{t("gomoreHint")}</span>
     </a>
   );
 }
