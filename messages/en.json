@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "title": "OurCandle4U — Handmade candles & car rental",
+    "description": "Enjoyed your GoMore rental? Take a free handmade candle and optionally tip us toward our dream trip to Japan."
+  },
+  "nav": {
+    "brand": "OurCandle4U"
+  },
+  "hero": {
+    "badge": "A little gift from your hosts",
+    "title": "Thanks for renting with us!",
+    "subtitle": "We left you a handmade candle — a small thank-you from Gabriele & partner, your GoMore hosts.",
+    "ctaStory": "Our story",
+    "ctaTwint": "Tip with TWINT"
+  },
+  "story": {
+    "title": "Why a candle?",
+    "paragraph1": "We share our cars on GoMore and love keeping them spotless for every trip. As a little thank-you, we leave a handmade candle in each car — yours to keep!",
+    "paragraph2": "We're saving up for a dream trip to Japan. If you enjoyed the ride (and the candle!), a voluntary TWINT tip helps us get one step closer. Every contribution counts.",
+    "paragraph3": "No pressure at all — the candle is free. The tip is purely optional and goes straight toward our Japan adventure."
+  },
+  "candle": {
+    "title": "Your handmade candle",
+    "description": "Each candle is made by hand with care. More colors and scents are available — perfect as a gift or to treat yourself.",
+    "colorsNote": "Ask us about other colors and special requests!",
+    "altCouple": "Your hosts dreaming of Japan",
+    "altCandle": "Handmade candle in warm colors"
+  },
+  "twint": {
+    "title": "Support our Japan dream",
+    "description": "Enjoyed the rental? A voluntary TWINT tip helps us with car cleaning and our trip to Japan.",
+    "button": "Tip us with TWINT",
+    "openApp": "Open TWINT app",
+    "step1": "Open your TWINT app",
+    "step2": "Tap \"Send money\"",
+    "step3": "Enter our phone number",
+    "phoneLabel": "Our TWINT number",
+    "copy": "Copy number",
+    "copied": "Copied!",
+    "close": "Close",
+    "note": "TWINT P2P only — enter the number manually in the app if it doesn't open automatically."
+  },
+  "contact": {
+    "title": "Want more candles?",
+    "description": "Love your candle and want more colors or a custom order? Get in touch — we'd love to hear from you!",
+    "phone": "Call or text us",
+    "gomore": "Or message us on GoMore chat — you'll find us as your car hosts.",
+    "phoneNumber": "+41 77 259 35 46"
+  },
+  "footer": {
+    "tagline": "Handmade candles · GoMore car rental · Japan dream",
+    "domain": "ourcandle4u.com"
+  }
+}
