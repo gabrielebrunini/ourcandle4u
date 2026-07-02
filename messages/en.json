@@ -39,8 +39,7 @@
     "phoneLabel": "Our TWINT number",
     "copy": "📋 Copy number",
     "copied": "✅ Copied!",
-    "close": "Close",
-    "note": "TWINT P2P only — enter the number manually in the app if it doesn't open automatically."
+    "close": "Close"
   },
   "contact": {
     "title": "🕯️ Want more candles?",

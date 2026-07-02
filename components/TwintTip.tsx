@@ -20,9 +20,12 @@ export default function TwintTip() {
     }
   }, []);
 
-  const openTwint = useCallback(() => {
-    window.location.href = "twint://";
+  const openModal = useCallback(() => {
     setOpen(true);
+  }, []);
+
+  const openTwintApp = useCallback(() => {
+    window.location.href = "twint://";
   }, []);
 
   return (
@@ -36,7 +39,7 @@ export default function TwintTip() {
           <p className="mb-8 text-lg text-white/90">{t("description")}</p>
           <button
             type="button"
-            onClick={openTwint}
+            onClick={openModal}
             className="rounded-full bg-white px-8 py-4 text-lg font-bold text-coral shadow-lg transition hover:scale-105 hover:shadow-xl"
           >
             {t("button")}
@@ -102,18 +105,12 @@ export default function TwintTip() {
                 </button>
                 <button
                   type="button"
-                  onClick={() => {
-                    window.location.href = "twint://";
-                  }}
+                  onClick={openTwintApp}
                   className="flex-1 rounded-full bg-coral px-6 py-3 font-bold text-white transition hover:bg-coral-dark"
                 >
                   {t("openApp")}
                 </button>
               </div>
-
-              <p className="mt-4 text-center text-xs text-charcoal/50">
-                {t("note")}
-              </p>
 
               <button
                 type="button"
