@@ -27,11 +27,9 @@
     "altCandle": "Candela artigianale in colori caldi"
   },
   "twint": {
-    "titlePrefix": "Contribuisci via ",
-    "titleAria": "Contribuisci via TWINT",
+    "title": "Contribuisci via TWINT",
     "description": "Vuoi tenere la candela? Fai un contributo via TWINT — decidi tu l'importo.",
-    "buttonPrefix": "Contribuisci con ",
-    "buttonSuffix": "",
+    "button": "Contribuisci con TWINT",
     "buttonAria": "Contribuisci con TWINT",
     "openApp": "Apri app TWINT",
     "step1": "Apri la tua app TWINT",

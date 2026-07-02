@@ -2,7 +2,6 @@
 
 import { useState, useCallback } from "react";
 import { useTranslations } from "next-intl";
-import TwintLogoBadge from "./TwintLogoBadge";
 
 const PHONE_DISPLAY = "+41 77 259 35 46";
 
@@ -29,19 +28,11 @@ export default function TwintTip() {
     window.location.href = "twint://";
   }, []);
 
-  const buttonSuffix = t("buttonSuffix");
-
   return (
     <section id="twint" className="px-6 py-16 sm:px-10">
       <div className="mx-auto max-w-2xl">
         <div className="rounded-3xl bg-gradient-to-br from-coral to-coral-dark p-8 text-center text-white shadow-xl sm:p-10">
-          <h2
-            className="mb-3 flex flex-wrap items-center justify-center gap-2 text-3xl font-extrabold"
-            aria-label={t("titleAria")}
-          >
-            <span>{t("titlePrefix")}</span>
-            <TwintLogoBadge height={30} />
-          </h2>
+          <h2 className="mb-3 text-3xl font-extrabold">{t("title")}</h2>
           <p className="mb-8 text-lg text-white/90">{t("description")}</p>
           <button
             type="button"
@@ -49,9 +40,7 @@ export default function TwintTip() {
             aria-label={t("buttonAria")}
             className="inline-flex items-center justify-center gap-2 rounded-full bg-white px-8 py-4 text-lg font-bold text-charcoal shadow-lg transition hover:scale-105 hover:shadow-xl"
           >
-            <span>{t("buttonPrefix")}</span>
-            <TwintLogoBadge height={22} />
-            {buttonSuffix !== "" ? <span>{buttonSuffix}</span> : null}
+            {t("button")}
           </button>
         </div>
 
@@ -70,12 +59,9 @@ export default function TwintTip() {
             >
               <h3
                 id="twint-modal-title"
-                className="mb-4 flex flex-wrap items-center justify-center gap-2 text-xl font-extrabold text-charcoal"
-                aria-label={t("buttonAria")}
+                className="mb-4 text-center text-xl font-extrabold text-charcoal"
               >
-                <span>{t("buttonPrefix")}</span>
-                <TwintLogoBadge height={24} />
-                {buttonSuffix !== "" ? <span>{buttonSuffix}</span> : null}
+                {t("button")}
               </h3>
               <ol className="mb-6 space-y-3 text-charcoal/80">
                 <li className="flex gap-3">
@@ -118,10 +104,9 @@ export default function TwintTip() {
                 <button
                   type="button"
                   onClick={openTwintApp}
-                  className="flex flex-1 items-center justify-center gap-2 rounded-full bg-coral px-4 py-3 font-bold text-white transition hover:bg-coral-dark"
+                  className="flex-1 rounded-full bg-coral px-6 py-3 font-bold text-white transition hover:bg-coral-dark"
                 >
-                  <TwintLogoBadge height={20} />
-                  <span>{t("openApp")}</span>
+                  {t("openApp")}
                 </button>
               </div>
 
