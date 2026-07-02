@@ -34,11 +34,12 @@ export default async function HomePage({
 }) {
   const { locale } = await params;
   setRequestLocale(locale);
+  const tNav = await getTranslations({ locale, namespace: "nav" });
 
   return (
     <>
       <header className="sticky top-0 z-40 flex items-center justify-between px-6 py-4 sm:px-10">
-        <span className="text-lg font-extrabold text-coral">OurCandle4U</span>
+        <span className="text-lg font-extrabold text-coral">{tNav("brand")}</span>
         <LanguageSwitcher />
       </header>
       <main>

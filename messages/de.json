@@ -1,57 +1,57 @@
 {
   "meta": {
     "title": "OurCandle4U — Handgemachte Kerzen & Autovermietung",
-    "description": "Gefällt dir deine GoMore-Miete? Möchtest du die handgemachte Kerze behalten? Leiste einen Beitrag per TWINT für unsere Japan-Reise."
+    "description": "Gefällt dir deine GoMore-Miete? 🕯️ Möchtest du die handgemachte Kerze behalten? Leiste einen Beitrag per TWINT für unsere Japan-Reise 🇯🇵"
   },
   "nav": {
-    "brand": "OurCandle4U"
+    "brand": "🕯️ OurCandle4U"
   },
   "hero": {
-    "badge": "Ein Dankeschön von uns",
-    "title": "Danke, dass du bei uns gemietet hast!",
-    "subtitle": "Wir haben dir eine handgemachte Kerze hinterlassen — ein kleines Dankeschön von Gabriele & Angelika, euren GoMore-Gastgebern.",
+    "badge": "🎁 Ein Dankeschön von uns",
+    "title": "Danke, dass du bei uns gemietet hast! 🚗✨",
+    "subtitle": "🕯️ Wir haben dir eine handgemachte Kerze hinterlassen — ein kleines Dankeschön von Gabriele & Angelika, euren GoMore-Gastgebern 💛",
     "altHosts": "Gabriele und Angelika, eure GoMore-Gastgeber",
-    "ctaStory": "Unsere Geschichte",
-    "ctaTwint": "Mit TWINT beitragen"
+    "ctaStory": "📖 Unsere Geschichte",
+    "ctaTwint": "💸 Mit TWINT beitragen"
   },
   "story": {
-    "title": "Warum eine Kerze?",
+    "title": "🕯️ Warum eine Kerze?",
     "altTravel": "Gabriele und Angelika auf Reisen — träumen von Japan",
-    "paragraph1": "Wir teilen unsere Autos auf GoMore und halten sie für jede Fahrt blitzblank. Als Dankeschön legen wir in jedes Auto eine handgemachte Kerze — behalte sie, wenn du möchtest!",
-    "paragraph2": "Wir sparen für eine Traumreise nach Japan. Wenn du die Kerze möchtest, hilft uns ein TWINT-Beitrag dem Ziel näher — du bestimmst den Betrag.",
-    "paragraph3": "Du möchtest die Kerze behalten? Bitte leiste einen Beitrag via TWINT — du bestimmst den Betrag. Jeder Beitrag fliesst direkt in unser Japan-Abenteuer — danke für deine Unterstützung!"
+    "paragraph1": "🚗 Wir teilen unsere Autos auf GoMore und halten sie für jede Fahrt blitzblank. Als Dankeschön legen wir in jedes Auto eine handgemachte Kerze — behalte sie, wenn du möchtest! 🕯️",
+    "paragraph2": "🇯🇵 Wir sparen für eine Traumreise nach Japan. Wenn du die Kerze möchtest, hilft uns ein TWINT-Beitrag dem Ziel näher — du bestimmst den Betrag! 🙌",
+    "paragraph3": "✨ Du möchtest die Kerze behalten? Bitte leiste einen Beitrag via TWINT — du bestimmst den Betrag. Jeder Beitrag fliesst direkt in unser Japan-Abenteuer — danke für deine Unterstützung! 🥰"
   },
   "candle": {
-    "title": "Deine handgemachte Kerze",
-    "description": "Jede Kerze wird mit Liebe von Hand gemacht. Wenn du sie behalten möchtest, leiste bitte einen Beitrag via TWINT — du bestimmst den Betrag. Weitere Farben und Düfte sind auf Anfrage erhältlich.",
-    "colorsNote": "Frag uns nach anderen Farben und Sonderwünschen!",
+    "title": "🕯️ Deine handgemachte Kerze",
+    "description": "Jede Kerze wird mit Liebe von Hand gemacht 🤲 Wenn du sie behalten möchtest, leiste bitte einen Beitrag via TWINT — du bestimmst den Betrag. Weitere Farben und Düfte sind auf Anfrage erhältlich 🎨",
+    "colorsNote": "🎨 Frag uns nach anderen Farben und Sonderwünschen!",
     "altCouple": "Gabriele und Angelika träumen von Japan",
     "altCandle": "Handgemachte Kerze in warmen Farben"
   },
   "twint": {
-    "title": "Beitrag via TWINT",
-    "description": "Du möchtest die Kerze behalten? Bitte leiste einen Beitrag via TWINT — du bestimmst den Betrag.",
-    "button": "Mit TWINT beitragen",
-    "openApp": "TWINT-App öffnen",
-    "step1": "Öffne deine TWINT-App",
-    "step2": "Tippe auf \"Geld senden\"",
-    "step3": "Gib unsere Telefonnummer ein",
+    "title": "🇯🇵 Beitrag via TWINT",
+    "description": "🕯️ Du möchtest die Kerze behalten? Bitte leiste einen Beitrag via TWINT — du bestimmst den Betrag 💛",
+    "button": "💸 Mit TWINT beitragen",
+    "openApp": "📱 TWINT-App öffnen",
+    "step1": "📱 Öffne deine TWINT-App",
+    "step2": "💸 Tippe auf \"Geld senden\"",
+    "step3": "📞 Gib unsere Telefonnummer ein",
     "phoneLabel": "Unsere TWINT-Nummer",
-    "copy": "Nummer kopieren",
-    "copied": "Kopiert!",
+    "copy": "📋 Nummer kopieren",
+    "copied": "✅ Kopiert!",
     "close": "Schliessen",
     "note": "TWINT P2P — gib die Nummer manuell in der App ein, falls sie nicht automatisch öffnet."
   },
   "contact": {
-    "title": "Mehr Kerzen gewünscht?",
-    "description": "Du liebst deine Kerze und möchtest mehr Farben oder eine Sonderbestellung? Schreib uns — wir freuen uns von dir zu hören!",
-    "whatsapp": "Schreib uns auf WhatsApp",
-    "whatsappHint": "Öffnet WhatsApp, um uns eine Nachricht zu senden",
-    "gomore": "Schreib uns auf GoMore",
-    "gomoreHint": "Öffnet die GoMore-App bei deiner Buchung — schreib uns im Chat"
+    "title": "🕯️ Mehr Kerzen gewünscht?",
+    "description": "Du liebst deine Kerze und möchtest mehr Farben oder eine Sonderbestellung? 💌 Schreib uns — wir freuen uns von dir zu hören!",
+    "whatsapp": "💬 Schreib uns auf WhatsApp",
+    "whatsappHint": "Öffnet WhatsApp, um uns eine Nachricht zu senden 📲",
+    "gomore": "🚗 Schreib uns auf GoMore",
+    "gomoreHint": "Öffnet die GoMore-App bei deiner Buchung — schreib uns im Chat 💬"
   },
   "footer": {
-    "tagline": "Gabriele & Angelika · Handgemachte Kerzen · GoMore · Japan-Traum",
-    "domain": "ourcandle4u.com"
+    "tagline": "🕯️ Gabriele & Angelika · 🚗 GoMore · 🇯🇵 Japan-Traum",
+    "domain": "ourcandle4u.com ✨"
   }
 }
