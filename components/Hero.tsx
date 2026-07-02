@@ -1,7 +1,7 @@
 "use client";
 
 import { useTranslations } from "next-intl";
-import Image from "next/image";
+import LivePhoto from "./LivePhoto";
 
 export default function Hero() {
   const t = useTranslations("hero");
@@ -27,11 +27,10 @@ export default function Hero() {
         </p>
 
         <div className="relative mx-auto mb-10 aspect-[4/3] max-w-md overflow-hidden rounded-3xl border-4 border-white shadow-xl">
-          <Image
-            src="/images/couple-lake.png"
+          <LivePhoto
+            baseName="couple-lake"
             alt={t("altHosts")}
-            fill
-            className="object-cover"
+            className="absolute inset-0 h-full w-full object-cover"
             priority
           />
         </div>
