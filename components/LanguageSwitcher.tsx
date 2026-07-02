@@ -9,6 +9,7 @@ const localeLabels: Record<Locale, string> = {
   en: "EN",
   de: "DE",
   it: "IT",
+  fr: "FR",
 };
 
 export default function LanguageSwitcher() {

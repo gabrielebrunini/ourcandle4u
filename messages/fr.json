@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "title": "OurCandle4U — Bougies artisanales & location de voiture",
+    "description": "Vous avez apprécié votre location GoMore ? Vous voulez garder la bougie artisanale ? Faites une contribution via TWINT pour notre voyage de rêve au Japon."
+  },
+  "nav": {
+    "brand": "OurCandle4U"
+  },
+  "hero": {
+    "badge": "Un merci de notre part",
+    "title": "Merci d'avoir loué notre voiture !",
+    "subtitle": "Nous vous avons laissé une bougie faite main — un petit merci de Gabriele & Angelika, vos hôtes GoMore.",
+    "altHosts": "Gabriele et Angelika, vos hôtes GoMore",
+    "ctaStory": "Notre histoire",
+    "ctaTwint": "Contribuer avec TWINT"
+  },
+  "story": {
+    "title": "Pourquoi une bougie ?",
+    "altTravel": "Gabriele et Angelika en voyage — rêvant du Japon",
+    "paragraph1": "Nous partageons nos voitures sur GoMore et aimons les garder impeccables pour chaque trajet. En remerciement, nous laissons une bougie faite main dans chaque voiture — gardez-la si vous le souhaitez !",
+    "paragraph2": "Nous économisons pour un voyage de rêve au Japon. Si vous voulez la bougie, une contribution TWINT nous rapproche du but — vous décidez du montant.",
+    "paragraph3": "Vous voulez garder la bougie ? Merci de faire une contribution via TWINT — vous décidez du montant. Chaque contribution va directement vers notre aventure au Japon — merci pour votre soutien !"
+  },
+  "candle": {
+    "title": "Votre bougie faite main",
+    "description": "Chaque bougie est faite à la main avec soin. Si vous voulez la garder, merci de faire une contribution via TWINT — vous décidez du montant. D'autres couleurs et parfums sont aussi disponibles sur demande.",
+    "colorsNote": "Demandez-nous d'autres couleurs et des demandes spéciales !",
+    "altCouple": "Gabriele et Angelika rêvant du Japon",
+    "altCandle": "Bougie faite main aux couleurs chaudes"
+  },
+  "twint": {
+    "title": "Contribuer via TWINT",
+    "description": "Vous voulez garder la bougie ? Merci de faire une contribution via TWINT — vous décidez du montant.",
+    "button": "Contribuer avec TWINT",
+    "openApp": "Ouvrir l'app TWINT",
+    "step1": "Ouvrez votre app TWINT",
+    "step2": "Appuyez sur « Envoyer de l'argent »",
+    "step3": "Entrez notre numéro de téléphone",
+    "phoneLabel": "Notre numéro TWINT",
+    "copy": "Copier le numéro",
+    "copied": "Copié !",
+    "close": "Fermer"
+  },
+  "contact": {
+    "title": "Vous voulez plus de bougies ?",
+    "description": "Vous aimez votre bougie et en voulez d'autres couleurs ou une commande personnalisée ? Écrivez-nous — nous serions ravis de vous entendre !",
+    "whatsapp": "Écrivez-nous sur WhatsApp",
+    "whatsappHint": "Ouvre WhatsApp pour nous envoyer un message",
+    "gomore": "Écrivez-nous sur GoMore",
+    "gomoreHint": "Ouvre l'app GoMore sur votre réservation — écrivez-nous dans le chat"
+  },
+  "footer": {
+    "tagline": "Gabriele & Angelika · Bougies artisanales · GoMore · Rêve Japon",
+    "domain": "ourcandle4u.com"
+  }
+}
