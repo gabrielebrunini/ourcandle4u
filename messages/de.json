@@ -27,9 +27,12 @@
     "altCandle": "Handgemachte Kerze in warmen Farben"
   },
   "twint": {
-    "title": "Beitrag via TWINT",
+    "titlePrefix": "Beitrag via ",
+    "titleAria": "Beitrag via TWINT",
     "description": "Du möchtest die Kerze behalten? Bitte leiste einen Beitrag via TWINT — du bestimmst den Betrag.",
-    "button": "Mit TWINT beitragen",
+    "buttonPrefix": "Mit ",
+    "buttonSuffix": " beitragen",
+    "buttonAria": "Mit TWINT beitragen",
     "openApp": "TWINT-App öffnen",
     "step1": "Öffne deine TWINT-App",
     "step2": "Tippe auf \"Geld senden\"",

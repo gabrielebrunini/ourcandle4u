@@ -27,9 +27,12 @@
     "altCandle": "Bougie faite main aux couleurs chaudes"
   },
   "twint": {
-    "title": "Contribuer via TWINT",
+    "titlePrefix": "Contribuer via ",
+    "titleAria": "Contribuer via TWINT",
     "description": "Vous voulez garder la bougie ? Merci de faire une contribution via TWINT — vous décidez du montant.",
-    "button": "Contribuer avec TWINT",
+    "buttonPrefix": "Contribuer avec ",
+    "buttonSuffix": "",
+    "buttonAria": "Contribuer avec TWINT",
     "openApp": "Ouvrir l'app TWINT",
     "step1": "Ouvrez votre app TWINT",
     "step2": "Appuyez sur « Envoyer de l'argent »",
