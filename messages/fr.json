@@ -44,6 +44,8 @@
   "contact": {
     "title": "Vous voulez plus de bougies ?",
     "description": "Vous aimez votre bougie et souhaitez d'autres couleurs ou une commande personnalisée ? Écrivez-nous — nous serions ravis de vous entendre !",
+    "colorsCaption": "Quelques-uns de nos boîtes — demandez-nous aussi d'autres couleurs et parfums.",
+    "altColors": "Quatre bougies artisanales dans des boîtes de couleurs et motifs floraux différents",
     "whatsapp": "Écrivez-nous sur WhatsApp",
     "whatsappHint": "Ouvre WhatsApp pour nous envoyer un message",
     "gomore": "Écrivez-nous sur GoMore",

@@ -1,4 +1,5 @@
 import { useTranslations } from "next-intl";
+import Image from "next/image";
 import GoMoreLink from "./GoMoreLink";
 
 const WHATSAPP_URL = "https://wa.me/41772593546";
@@ -13,6 +14,21 @@ export default function Contact() {
           {t("title")}
         </h2>
         <p className="mb-8 text-lg text-charcoal/75">{t("description")}</p>
+
+        <div className="mx-auto mb-8 max-w-sm overflow-hidden rounded-3xl border-4 border-mint/40 bg-white shadow-lg">
+          <div className="relative aspect-[3/4] w-full">
+            <Image
+              src="/images/candle-colors.png"
+              alt={t("altColors")}
+              fill
+              className="object-cover"
+              sizes="(max-width: 768px) 100vw, 672px"
+            />
+          </div>
+          <p className="px-5 py-4 text-sm font-medium text-charcoal/70">
+            {t("colorsCaption")}
+          </p>
+        </div>
 
         <div className="flex flex-col gap-4 sm:flex-row sm:justify-center">
           <a
