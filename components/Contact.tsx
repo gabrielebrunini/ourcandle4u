@@ -1,6 +1,7 @@
 import { useTranslations } from "next-intl";
 
-const PHONE_NUMBER = "+41772593546";
+const WHATSAPP_URL = "https://wa.me/41772593546";
+const GOMORE_APP_URL = "https://gomore.ch/app";
 
 export default function Contact() {
   const t = useTranslations("contact");
@@ -13,21 +14,32 @@ export default function Contact() {
         </h2>
         <p className="mb-8 text-lg text-charcoal/75">{t("description")}</p>
 
-        <div className="space-y-4 rounded-3xl bg-white p-8 shadow-md">
-          <div>
-            <p className="mb-2 text-sm font-semibold uppercase tracking-wide text-charcoal/50">
-              {t("phone")}
-            </p>
-            <a
-              href={`tel:${PHONE_NUMBER}`}
-              className="text-2xl font-bold text-coral transition hover:text-coral-dark"
-            >
-              {t("phoneNumber")}
-            </a>
-          </div>
-          <div className="border-t border-charcoal/10 pt-4">
-            <p className="text-base text-charcoal/75">{t("gomore")}</p>
-          </div>
+        <div className="flex flex-col gap-4 sm:flex-row sm:justify-center">
+          <a
+            href={WHATSAPP_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex flex-1 flex-col items-center rounded-3xl bg-[#25D366] px-6 py-5 text-white shadow-md transition hover:scale-[1.02] hover:shadow-lg sm:max-w-xs"
+          >
+            <span className="mb-1 text-2xl" aria-hidden="true">
+              💬
+            </span>
+            <span className="text-lg font-bold">{t("whatsapp")}</span>
+            <span className="mt-1 text-sm text-white/85">{t("whatsappHint")}</span>
+          </a>
+
+          <a
+            href={GOMORE_APP_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex flex-1 flex-col items-center rounded-3xl bg-charcoal px-6 py-5 text-white shadow-md transition hover:scale-[1.02] hover:shadow-lg sm:max-w-xs"
+          >
+            <span className="mb-1 text-2xl" aria-hidden="true">
+              🚗
+            </span>
+            <span className="text-lg font-bold">{t("gomore")}</span>
+            <span className="mt-1 text-sm text-white/85">{t("gomoreHint")}</span>
+          </a>
         </div>
       </div>
     </section>

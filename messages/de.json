@@ -42,10 +42,11 @@
   },
   "contact": {
     "title": "Mehr Kerzen gewünscht?",
-    "description": "Du liebst deine Kerze und möchtest mehr Farben oder eine Sonderbestellung? Melde dich — wir freuen uns von dir zu hören!",
-    "phone": "Ruf uns an oder schreib uns",
-    "gomore": "Oder schreib uns im GoMore-Chat — du findest uns als deine Autovermieter.",
-    "phoneNumber": "+41 77 259 35 46"
+    "description": "Du liebst deine Kerze und möchtest mehr Farben oder eine Sonderbestellung? Schreib uns — wir freuen uns von dir zu hören!",
+    "whatsapp": "Schreib uns auf WhatsApp",
+    "whatsappHint": "Öffnet WhatsApp, um uns eine Nachricht zu senden",
+    "gomore": "Schreib uns auf GoMore",
+    "gomoreHint": "Öffnet die GoMore-App — finde uns im Chat deiner Buchung"
   },
   "footer": {
     "tagline": "Gabriele & Angelika · Handgemachte Kerzen · GoMore · Japan-Traum",

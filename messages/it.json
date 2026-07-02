@@ -42,10 +42,11 @@
   },
   "contact": {
     "title": "Vuoi altre candele?",
-    "description": "Ti piace la tua candela e ne vuoi altre colori o un ordine personalizzato? Contattaci — ci farebbe piacere sentirti!",
-    "phone": "Chiamaci o scrivici",
-    "gomore": "O scrivici nella chat GoMore — ci trovi come i tuoi host auto.",
-    "phoneNumber": "+41 77 259 35 46"
+    "description": "Ti piace la tua candela e ne vuoi altre colori o un ordine personalizzato? Scrivici — ci farebbe piacere sentirti!",
+    "whatsapp": "Scrivici su WhatsApp",
+    "whatsappHint": "Apre WhatsApp per inviarci un messaggio",
+    "gomore": "Scrivici su GoMore",
+    "gomoreHint": "Apre l'app GoMore — trovaci nella chat della tua prenotazione"
   },
   "footer": {
     "tagline": "Gabriele & Angelika · Candele artigianali · GoMore · Sogno Giappone",

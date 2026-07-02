@@ -42,10 +42,11 @@
   },
   "contact": {
     "title": "Want more candles?",
-    "description": "Love your candle and want more colors or a custom order? Get in touch — we'd love to hear from you!",
-    "phone": "Call or text us",
-    "gomore": "Or message us on GoMore chat — you'll find us as your car hosts.",
-    "phoneNumber": "+41 77 259 35 46"
+    "description": "Love your candle and want more colors or a custom order? Message us — we'd love to hear from you!",
+    "whatsapp": "Message us on WhatsApp",
+    "whatsappHint": "Opens WhatsApp to send us a message",
+    "gomore": "Message us on GoMore",
+    "gomoreHint": "Opens the GoMore app — find us in your booking chat"
   },
   "footer": {
     "tagline": "Gabriele & Angelika · Handmade candles · GoMore · Japan dream",
