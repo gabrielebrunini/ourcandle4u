@@ -11,9 +11,10 @@ export default function TwintLogoBadge({
 }: TwintLogoBadgeProps) {
   return (
     <span
-      className={`inline-flex items-center rounded-lg bg-white px-2.5 py-1.5 ${className}`}
+      className={`inline-flex shrink-0 items-center overflow-hidden rounded-md ${className}`}
+      aria-hidden
     >
-      <TwintLogo className="h-auto w-auto" height={height} />
+      <TwintLogo height={height} />
     </span>
   );
 }

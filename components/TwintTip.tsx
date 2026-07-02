@@ -50,7 +50,7 @@ export default function TwintTip() {
             className="inline-flex items-center justify-center gap-2 rounded-full bg-white px-8 py-4 text-lg font-bold text-charcoal shadow-lg transition hover:scale-105 hover:shadow-xl"
           >
             <span>{t("buttonPrefix")}</span>
-            <TwintLogoBadge height={22} className="px-2 py-1" />
+            <TwintLogoBadge height={22} />
             {buttonSuffix !== "" ? <span>{buttonSuffix}</span> : null}
           </button>
         </div>
@@ -120,7 +120,7 @@ export default function TwintTip() {
                   onClick={openTwintApp}
                   className="flex flex-1 items-center justify-center gap-2 rounded-full bg-coral px-4 py-3 font-bold text-white transition hover:bg-coral-dark"
                 >
-                  <TwintLogoBadge height={20} className="px-2 py-1" />
+                  <TwintLogoBadge height={20} />
                   <span>{t("openApp")}</span>
                 </button>
               </div>
