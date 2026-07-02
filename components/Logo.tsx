@@ -21,19 +21,19 @@ function SmallCandle({ className }: { className?: string }) {
         rx="3"
         fill="#fff8f0"
         stroke="#e8c4a0"
-        strokeWidth="1.2"
+        strokeWidth="1.4"
       />
       <path
         d="M7 13 H17"
         stroke="#ff6b6b"
-        strokeWidth="0.8"
+        strokeWidth="1"
         strokeLinecap="round"
         opacity="0.35"
       />
       <path
         d="M8 15.5 C9 14.5 10 14.5 12 14.5 C14 14.5 15 14.5 16 15.5"
         stroke="#7bedd4"
-        strokeWidth="0.7"
+        strokeWidth="0.9"
         strokeLinecap="round"
         opacity="0.5"
       />
@@ -43,7 +43,7 @@ function SmallCandle({ className }: { className?: string }) {
       <path
         d="M12 11.5 V9.2"
         stroke="#8b6914"
-        strokeWidth="0.9"
+        strokeWidth="1.1"
         strokeLinecap="round"
       />
       {/* flame */}
@@ -62,9 +62,9 @@ function SmallCandle({ className }: { className?: string }) {
 export default function Logo({ className = "", compact = false }: LogoProps) {
   return (
     <div className={`flex items-center gap-2 ${className}`}>
-      <SmallCandle className="h-5 w-5 shrink-0 sm:h-6 sm:w-6" />
+      <SmallCandle className="h-10 w-10 shrink-0 sm:h-11 sm:w-11" />
       {!compact && (
-        <span className="text-base font-extrabold tracking-tight text-coral sm:text-lg">
+        <span className="text-lg font-extrabold tracking-tight text-coral sm:text-xl">
           OurCandle4U
         </span>
       )}

@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 32" role="img" aria-label="OurCandle4U">
-  <g transform="translate(0, 4)">
-    <rect x="1" y="10" width="14" height="10" rx="3" fill="#fff8f0" stroke="#e8c4a0" stroke-width="1.2"/>
-    <path d="M3 13 H13" stroke="#ff6b6b" stroke-width="0.8" stroke-linecap="round" opacity="0.35"/>
-    <path d="M4 15.5 C5 14.5 6 14.5 8 14.5 C10 14.5 11 14.5 12 15.5" stroke="#7bedd4" stroke-width="0.7" stroke-linecap="round" opacity="0.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 44" role="img" aria-label="OurCandle4U">
+  <g transform="translate(2, 2) scale(1.35)">
+    <rect x="1" y="10" width="14" height="10" rx="3" fill="#fff8f0" stroke="#e8c4a0" stroke-width="1.4"/>
+    <path d="M3 13 H13" stroke="#ff6b6b" stroke-width="1" stroke-linecap="round" opacity="0.35"/>
+    <path d="M4 15.5 C5 14.5 6 14.5 8 14.5 C10 14.5 11 14.5 12 15.5" stroke="#7bedd4" stroke-width="0.9" stroke-linecap="round" opacity="0.5"/>
     <ellipse cx="8" cy="11.5" rx="5.5" ry="1.6" fill="#ffffff"/>
-    <path d="M8 11.5 V9.2" stroke="#8b6914" stroke-width="0.9" stroke-linecap="round"/>
+    <path d="M8 11.5 V9.2" stroke="#8b6914" stroke-width="1.1" stroke-linecap="round"/>
     <path d="M8 9.2 C7.2 8.1 6.6 6.8 7.4 5.8 C8 5 8.8 5 9.4 5.8 C10.2 6.8 9.6 8.1 8.8 9.2 C8.5 9.6 8 9.6 8 9.2 Z" fill="#ff6b6b"/>
     <path d="M8 8.8 C7.6 8.1 7.5 7.2 8 6.6 C8.5 7.2 8.4 8.1 8 8.8 Z" fill="#ffe066"/>
   </g>
-  <text x="24" y="22" font-family="Nunito, system-ui, sans-serif" font-size="18" font-weight="800" fill="#ff6b6b" letter-spacing="-0.02em">OurCandle4U</text>
+  <text x="34" y="30" font-family="Nunito, system-ui, sans-serif" font-size="22" font-weight="800" fill="#ff6b6b" letter-spacing="-0.02em">OurCandle4U</text>
 </svg>
