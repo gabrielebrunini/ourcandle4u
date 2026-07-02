@@ -24,11 +24,8 @@ export default function Story() {
           <p className="text-lg leading-relaxed text-charcoal/80">
             {t("paragraph1")}
           </p>
-          <p className="text-lg leading-relaxed text-charcoal/80">
+          <p className="rounded-2xl bg-mint/20 px-5 py-4 text-lg leading-relaxed font-medium text-charcoal/85">
             {t("paragraph2")}
-          </p>
-          <p className="rounded-2xl bg-mint/20 px-5 py-4 text-base font-medium text-charcoal/85">
-            {t("paragraph3")}
           </p>
         </div>
       </div>
