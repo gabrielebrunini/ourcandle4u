@@ -1,5 +1,6 @@
 import { useTranslations } from "next-intl";
 import Image from "next/image";
+import TwintLogo from "./TwintLogo";
 
 export default function Story() {
   const t = useTranslations("story");
@@ -24,9 +25,16 @@ export default function Story() {
           <p className="text-lg leading-relaxed text-charcoal/80">
             {t("paragraph1")}
           </p>
-          <p className="rounded-2xl bg-mint/20 px-5 py-4 text-lg leading-relaxed font-medium text-charcoal/85">
-            {t("paragraph2")}
-          </p>
+          <div className="rounded-2xl bg-mint/20 px-5 py-4">
+            <div className="mb-3 flex justify-end">
+              <div className="rounded-lg bg-black px-3 py-1.5">
+                <TwintLogo className="h-5 w-auto" height={20} />
+              </div>
+            </div>
+            <p className="text-lg leading-relaxed font-medium text-charcoal/85">
+              {t("paragraph2")}
+            </p>
+          </div>
         </div>
       </div>
     </section>

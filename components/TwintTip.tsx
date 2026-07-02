@@ -2,6 +2,7 @@
 
 import { useState, useCallback } from "react";
 import { useTranslations } from "next-intl";
+import TwintLogo from "./TwintLogo";
 
 const PHONE_DISPLAY = "+41 77 259 35 46";
 
@@ -32,17 +33,20 @@ export default function TwintTip() {
     <section id="twint" className="px-6 py-16 sm:px-10">
       <div className="mx-auto max-w-2xl">
         <div className="rounded-3xl bg-gradient-to-br from-coral to-coral-dark p-8 text-center text-white shadow-xl sm:p-10">
-          <span className="mb-3 inline-block text-4xl" aria-hidden="true">
-            🇯🇵
-          </span>
+          <div className="mb-4 flex justify-center">
+            <div className="rounded-xl bg-black px-5 py-2.5">
+              <TwintLogo className="h-8 w-auto sm:h-9" height={36} />
+            </div>
+          </div>
           <h2 className="mb-3 text-3xl font-extrabold">{t("title")}</h2>
           <p className="mb-8 text-lg text-white/90">{t("description")}</p>
           <button
             type="button"
             onClick={openModal}
-            className="rounded-full bg-white px-8 py-4 text-lg font-bold text-coral shadow-lg transition hover:scale-105 hover:shadow-xl"
+            className="inline-flex items-center justify-center gap-3 rounded-full bg-white px-8 py-4 text-lg font-bold text-charcoal shadow-lg transition hover:scale-105 hover:shadow-xl"
           >
-            {t("button")}
+            <TwintLogo className="h-6 w-auto" height={24} />
+            <span>{t("button")}</span>
           </button>
         </div>
 
@@ -59,9 +63,14 @@ export default function TwintTip() {
               className="w-full max-w-md rounded-3xl bg-white p-6 shadow-2xl sm:p-8"
               onClick={(e) => e.stopPropagation()}
             >
+              <div className="mb-4 flex justify-center">
+                <div className="rounded-xl bg-black px-4 py-2">
+                  <TwintLogo className="h-7 w-auto" height={28} />
+                </div>
+              </div>
               <h3
                 id="twint-modal-title"
-                className="mb-4 text-xl font-extrabold text-charcoal"
+                className="mb-4 text-center text-xl font-extrabold text-charcoal"
               >
                 {t("button")}
               </h3>
@@ -106,9 +115,10 @@ export default function TwintTip() {
                 <button
                   type="button"
                   onClick={openTwintApp}
-                  className="flex-1 rounded-full bg-coral px-6 py-3 font-bold text-white transition hover:bg-coral-dark"
+                  className="flex flex-1 items-center justify-center gap-2 rounded-full bg-black px-4 py-3 font-bold text-white transition hover:bg-charcoal"
                 >
-                  {t("openApp")}
+                  <TwintLogo className="h-5 w-auto" height={20} />
+                  <span>{t("openApp")}</span>
                 </button>
               </div>
 
