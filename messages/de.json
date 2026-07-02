@@ -1,35 +1,35 @@
 {
   "meta": {
     "title": "OurCandle4U — Handgemachte Kerzen & Autovermietung",
-    "description": "Gefällt dir deine GoMore-Miete? Nimm eine gratis handgemachte Kerze und unterstütze uns optional per TWINT auf unserer Japan-Reise."
+    "description": "Gefällt dir deine GoMore-Miete? Möchtest du die handgemachte Kerze behalten? Unterstütze uns per TWINT auf unserer Japan-Reise."
   },
   "nav": {
     "brand": "OurCandle4U"
   },
   "hero": {
-    "badge": "Ein kleines Geschenk von uns",
+    "badge": "Ein Dankeschön von uns",
     "title": "Danke, dass du bei uns gemietet hast!",
-    "subtitle": "Wir haben dir eine handgemachte Kerze hinterlassen — ein kleines Dankeschön von Gabriele & Partner, euren GoMore-Gastgebern.",
+    "subtitle": "Wir haben dir eine handgemachte Kerze hinterlassen — ein kleines Dankeschön von Gabriele & Angelika, euren GoMore-Gastgebern.",
     "ctaStory": "Unsere Geschichte",
-    "ctaTwint": "Mit TWINT Trinkgeld geben"
+    "ctaTwint": "Mit TWINT bezahlen"
   },
   "story": {
     "title": "Warum eine Kerze?",
-    "paragraph1": "Wir teilen unsere Autos auf GoMore und halten sie für jede Fahrt blitzblank. Als kleines Dankeschön legen wir in jedes Auto eine handgemachte Kerze — sie gehört dir!",
-    "paragraph2": "Wir sparen für eine Traumreise nach Japan. Wenn dir die Fahrt (und die Kerze!) gefallen hat, bringt uns ein freiwilliges TWINT-Trinkgeld dem Ziel näher. Jeder Beitrag zählt.",
-    "paragraph3": "Kein Druck — die Kerze ist gratis. Das Trinkgeld ist freiwillig und fliesst direkt in unser Japan-Abenteuer."
+    "paragraph1": "Wir teilen unsere Autos auf GoMore und halten sie für jede Fahrt blitzblank. Als Dankeschön legen wir in jedes Auto eine handgemachte Kerze — behalte sie, wenn du möchtest!",
+    "paragraph2": "Wir sparen für eine Traumreise nach Japan. Wenn du die Kerze haben möchtest, sende uns bitte ein TWINT-Trinkgeld. Dein Beitrag bringt uns Japan näher.",
+    "paragraph3": "Du möchtest die Kerze? Ein TWINT-Trinkgeld ist erforderlich. Jeder Beitrag fliesst direkt in unser Japan-Abenteuer — danke für deine Unterstützung!"
   },
   "candle": {
     "title": "Deine handgemachte Kerze",
-    "description": "Jede Kerze wird mit Liebe von Hand gemacht. Weitere Farben und Düfte sind verfügbar — perfekt als Geschenk oder für dich selbst.",
+    "description": "Jede Kerze wird mit Liebe von Hand gemacht. Um sie mitzunehmen, tippe uns bitte per TWINT. Weitere Farben und Düfte sind auf Anfrage erhältlich.",
     "colorsNote": "Frag uns nach anderen Farben und Sonderwünschen!",
-    "altCouple": "Eure Gastgeber träumen von Japan",
+    "altCouple": "Gabriele und Angelika träumen von Japan",
     "altCandle": "Handgemachte Kerze in warmen Farben"
   },
   "twint": {
-    "title": "Unterstütze unseren Japan-Traum",
-    "description": "Hat dir die Miete gefallen? Ein freiwilliges TWINT-Trinkgeld hilft uns bei der Autoreinigung und unserer Reise nach Japan.",
-    "button": "Trinkgeld mit TWINT",
+    "title": "Bezahle deine Kerze mit TWINT",
+    "description": "Möchtest du die Kerze behalten? Sende uns ein TWINT-Trinkgeld — es unterstützt die Autoreinigung und unsere Reise nach Japan.",
+    "button": "Mit TWINT bezahlen",
     "openApp": "TWINT-App öffnen",
     "step1": "Öffne deine TWINT-App",
     "step2": "Tippe auf \"Geld senden\"",
@@ -48,7 +48,7 @@
     "phoneNumber": "+41 77 259 35 46"
   },
   "footer": {
-    "tagline": "Handgemachte Kerzen · GoMore Autovermietung · Japan-Traum",
+    "tagline": "Gabriele & Angelika · Handgemachte Kerzen · GoMore · Japan-Traum",
     "domain": "ourcandle4u.com"
   }
 }

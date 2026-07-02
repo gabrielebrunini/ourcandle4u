@@ -1,35 +1,35 @@
 {
   "meta": {
     "title": "OurCandle4U — Candele artigianali e noleggio auto",
-    "description": "Ti è piaciuto il noleggio GoMore? Prendi una candela artigianale gratis e supportaci opzionalmente con TWINT per il nostro viaggio in Giappone."
+    "description": "Ti è piaciuto il noleggio GoMore? Vuoi tenere la candela artigianale? Supportaci con TWINT per il nostro viaggio in Giappone."
   },
   "nav": {
     "brand": "OurCandle4U"
   },
   "hero": {
-    "badge": "Un piccolo regalo da parte nostra",
+    "badge": "Un ringraziamento da parte nostra",
     "title": "Grazie per aver noleggiato con noi!",
-    "subtitle": "Ti abbiamo lasciato una candela fatta a mano — un piccolo ringraziamento da Gabriele & partner, i tuoi host GoMore.",
+    "subtitle": "Ti abbiamo lasciato una candela fatta a mano — un piccolo ringraziamento da Gabriele & Angelika, i tuoi host GoMore.",
     "ctaStory": "La nostra storia",
-    "ctaTwint": "Mancia con TWINT"
+    "ctaTwint": "Paga con TWINT"
   },
   "story": {
     "title": "Perché una candela?",
-    "paragraph1": "Condividiamo le nostre auto su GoMore e le teniamo impeccabili per ogni viaggio. Come ringraziamento, lasciamo una candela fatta a mano in ogni auto — è tua!",
-    "paragraph2": "Stiamo risparmiando per un viaggio da sogno in Giappone. Se il viaggio (e la candela!) ti è piaciuto, una mancia volontaria con TWINT ci avvicina al traguardo. Ogni contributo conta.",
-    "paragraph3": "Nessuna pressione — la candela è gratis. La mancia è del tutto opzionale e va direttamente verso la nostra avventura in Giappone."
+    "paragraph1": "Condividiamo le nostre auto su GoMore e le teniamo impeccabili per ogni viaggio. Come ringraziamento, lasciamo una candela fatta a mano in ogni auto — tienila se ti va!",
+    "paragraph2": "Stiamo risparmiando per un viaggio da sogno in Giappone. Se vuoi la candela, inviaci una mancia con TWINT. Il tuo contributo ci avvicina al Giappone.",
+    "paragraph3": "Vuoi la candela? La mancia via TWINT è obbligatoria. Ogni contributo va direttamente verso la nostra avventura in Giappone — grazie per il tuo supporto!"
   },
   "candle": {
     "title": "La tua candela artigianale",
-    "description": "Ogni candela è fatta a mano con cura. Altri colori e profumi sono disponibili — perfetti come regalo o per te stesso.",
+    "description": "Ogni candela è fatta a mano con cura. Per portarla a casa, inviaci una mancia via TWINT. Altri colori e profumi sono disponibili su richiesta.",
     "colorsNote": "Chiedici altri colori e richieste speciali!",
-    "altCouple": "I tuoi host che sognano il Giappone",
+    "altCouple": "Gabriele e Angelika che sognano il Giappone",
     "altCandle": "Candela artigianale in colori caldi"
   },
   "twint": {
-    "title": "Supporta il nostro sogno Giappone",
-    "description": "Ti è piaciuto il noleggio? Una mancia volontaria con TWINT ci aiuta con la pulizia dell'auto e il viaggio in Giappone.",
-    "button": "Mancia con TWINT",
+    "title": "Paga la tua candela con TWINT",
+    "description": "Vuoi tenere la candela? Inviaci una mancia con TWINT — supporta la pulizia dell'auto e il nostro viaggio in Giappone.",
+    "button": "Paga con TWINT",
     "openApp": "Apri app TWINT",
     "step1": "Apri la tua app TWINT",
     "step2": "Tocca \"Invia denaro\"",
@@ -48,7 +48,7 @@
     "phoneNumber": "+41 77 259 35 46"
   },
   "footer": {
-    "tagline": "Candele artigianali · Noleggio GoMore · Sogno Giappone",
+    "tagline": "Gabriele & Angelika · Candele artigianali · GoMore · Sogno Giappone",
     "domain": "ourcandle4u.com"
   }
 }
