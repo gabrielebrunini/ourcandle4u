@@ -27,7 +27,8 @@
     "altCandle": "Handmade candle in warm colors"
   },
   "twint": {
-    "title": "Contribute via TWINT",
+    "titlePrefix": "Contribute via ",
+    "titleAria": "Contribute via TWINT",
     "description": "If you want to keep the candle, please make a contribution via TWINT — you decide the amount.",
     "button": "Contribute with TWINT",
     "buttonAria": "Contribute with TWINT",

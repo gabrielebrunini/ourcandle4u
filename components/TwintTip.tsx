@@ -2,6 +2,7 @@
 
 import { useState, useCallback } from "react";
 import { useTranslations } from "next-intl";
+import TwintLogoBadge from "./TwintLogoBadge";
 
 const PHONE_DISPLAY = "+41 77 259 35 46";
 
@@ -32,7 +33,13 @@ export default function TwintTip() {
     <section id="twint" className="px-6 py-16 sm:px-10">
       <div className="mx-auto max-w-2xl">
         <div className="rounded-3xl bg-gradient-to-br from-coral to-coral-dark p-8 text-center text-white shadow-xl sm:p-10">
-          <h2 className="mb-3 text-3xl font-extrabold">{t("title")}</h2>
+          <h2
+            className="mb-3 flex flex-wrap items-center justify-center gap-2 text-3xl font-extrabold"
+            aria-label={t("titleAria")}
+          >
+            <span>{t("titlePrefix")}</span>
+            <TwintLogoBadge height={30} />
+          </h2>
           <p className="mb-8 text-lg text-white/90">{t("description")}</p>
           <button
             type="button"
