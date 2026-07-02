@@ -37,11 +37,13 @@ export default function Contact() {
             rel="noopener noreferrer"
             className="flex flex-1 flex-col items-center rounded-3xl bg-[#25D366] px-6 py-5 text-white shadow-md transition hover:scale-[1.02] hover:shadow-lg sm:max-w-xs"
           >
-            <span className="mb-1 text-2xl" aria-hidden="true">
+            <span className="mb-3 text-2xl" aria-hidden="true">
               💬
             </span>
-            <span className="text-lg font-bold">{t("whatsapp")}</span>
-            <span className="mt-1 text-sm text-white/85">{t("whatsappHint")}</span>
+            <span className="rounded-full bg-white px-6 py-2.5 text-base font-bold text-charcoal shadow-sm">
+              {t("whatsapp")}
+            </span>
+            <span className="mt-3 text-sm text-white/90">{t("whatsappHint")}</span>
           </a>
 
           <GoMoreLink />
