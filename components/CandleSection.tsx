@@ -13,7 +13,7 @@ export default function CandleSection() {
         <div className="grid items-center gap-8 md:grid-cols-2">
           <div className="relative aspect-square overflow-hidden rounded-3xl border-4 border-yellow/60 shadow-lg">
             <Image
-              src="/images/candle-placeholder.svg"
+              src="/images/candle.png"
               alt={t("altCandle")}
               fill
               className="object-cover"

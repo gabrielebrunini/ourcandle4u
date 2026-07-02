@@ -1,4 +1,5 @@
 import { useTranslations } from "next-intl";
+import Image from "next/image";
 
 export default function Story() {
   const t = useTranslations("story");
@@ -9,6 +10,16 @@ export default function Story() {
         <h2 className="mb-6 text-center text-3xl font-extrabold text-charcoal">
           {t("title")}
         </h2>
+
+        <div className="relative mx-auto mb-8 aspect-[3/4] max-w-xs overflow-hidden rounded-3xl border-4 border-mint/40 shadow-lg">
+          <Image
+            src="/images/couple-travel.png"
+            alt={t("altTravel")}
+            fill
+            className="object-cover"
+          />
+        </div>
+
         <div className="space-y-5 rounded-3xl bg-white p-8 shadow-md">
           <p className="text-lg leading-relaxed text-charcoal/80">
             {t("paragraph1")}

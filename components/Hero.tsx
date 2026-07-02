@@ -28,8 +28,8 @@ export default function Hero() {
 
         <div className="relative mx-auto mb-10 aspect-[4/3] max-w-md overflow-hidden rounded-3xl border-4 border-white shadow-xl">
           <Image
-            src="/images/couple-placeholder.svg"
-            alt=""
+            src="/images/couple-lake.png"
+            alt={t("altHosts")}
             fill
             className="object-cover"
             priority
