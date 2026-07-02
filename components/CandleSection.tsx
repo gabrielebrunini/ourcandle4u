@@ -23,9 +23,6 @@ export default function CandleSection() {
             <p className="text-lg leading-relaxed text-charcoal/80">
               {t("description")}
             </p>
-            <p className="rounded-2xl bg-yellow/25 px-5 py-4 text-base font-semibold text-charcoal">
-              {t("colorsNote")}
-            </p>
           </div>
         </div>
       </div>
