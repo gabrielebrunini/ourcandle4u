@@ -39,6 +39,7 @@
     "phoneLabel": "Our TWINT number",
     "copy": "Copy number",
     "copied": "Copied!",
+    "noTwintHelp": "No TWINT? Please contact us and we’ll find an alternative way for you to contribute.",
     "close": "Close"
   },
   "contact": {

@@ -49,6 +49,7 @@ export default function TwintTip() {
           >
             {t("button")}
           </button>
+          <p className="mt-4 text-sm text-white/90">{t("noTwintHelp")}</p>
         </div>
 
         {open && (
