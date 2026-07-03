@@ -15,13 +15,13 @@ export default function Contact() {
         </h2>
         <p className="mb-8 text-lg text-charcoal/75">{t("description")}</p>
 
-        <div className="mx-auto mb-8 max-w-sm overflow-hidden rounded-3xl border-4 border-mint/40 bg-white shadow-lg">
-          <div className="relative aspect-[3/4] w-full">
+        <div className="mx-auto mb-8 max-w-sm overflow-hidden rounded-3xl border-4 border-mint/40 shadow-lg">
+          <div className="relative aspect-[4/3] w-full">
             <Image
               src="/images/candle-colors.png"
               alt={t("altColors")}
               fill
-              className="object-contain p-2"
+              className="object-cover"
               sizes="(max-width: 768px) 100vw, 672px"
             />
           </div>
